@@ -17,4 +17,4 @@ You will need:
 - *5-volt power supply.* A USB battery pack or similar, should be compatible with your microcontroller of choice.
 
 Assembly instructions:
-- See the YouTube video - 
+- See the YouTube video - https://youtu.be/P1ofLDGDC5c
