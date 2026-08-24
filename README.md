@@ -1,3 +1,8 @@
+
+3D files:
+- https://www.printables.com/model/1800402-animatronic-cosplay-ears
+- Prototypes were printed on an Elegoo Centauri Carbon, with .4mm nozzle. Generic PLA, .2mm layer height.
+
 You will need:
 - *Two Servos*:
   - https://amzn.to/4hSwcnA
@@ -10,3 +15,6 @@ You will need:
   - https://amzn.to/3S5vKbi
   - https://www.adafruit.com/product/245
 - *5-volt power supply.* A USB battery pack or similar, should be compatible with your microcontroller of choice.
+
+Assembly instructions:
+- See the YouTube video - 
