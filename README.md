@@ -1,0 +1,12 @@
+You will need:
+- *Two Servos*:
+  - https://amzn.to/4hSwcnA
+  - any "9g" servo that has 180 degree motion should do
+- *Microcontroller*: Ideally should be 5v compatible.
+  - Trinket https://amzn.to/4gQl0Xz
+  -	Arduino Nano https://amzn.to/4wQXbDY
+  -	Teensy https://amzn.to/4xYnqco
+- *Joystick*:
+  - https://amzn.to/3S5vKbi
+  - https://www.adafruit.com/product/245
+- *5-volt power supply.* A USB battery pack or similar, should be compatible with your microcontroller of choice.
